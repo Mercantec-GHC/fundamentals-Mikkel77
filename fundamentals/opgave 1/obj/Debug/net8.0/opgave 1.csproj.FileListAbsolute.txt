@@ -1,0 +1,15 @@
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.AssemblyInfoInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.AssemblyInfo.cs
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.csproj.CoreCompileInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.sourcelink.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\bin\Debug\net8.0\opgave 1.exe
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\bin\Debug\net8.0\opgave 1.deps.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\bin\Debug\net8.0\opgave 1.runtimeconfig.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\bin\Debug\net8.0\opgave 1.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\bin\Debug\net8.0\opgave 1.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\refint\opgave 1.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\opgave 1.genruntimeconfig.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\opgave 1\obj\Debug\net8.0\ref\opgave 1.dll

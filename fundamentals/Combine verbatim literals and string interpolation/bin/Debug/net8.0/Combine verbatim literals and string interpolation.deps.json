@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Combine verbatim literals and string interpolation/1.0.0": {
+        "runtime": {
+          "Combine verbatim literals and string interpolation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Combine verbatim literals and string interpolation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\bin\Debug\net8.0\banke bøf.exe
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\bin\Debug\net8.0\banke bøf.deps.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\bin\Debug\net8.0\banke bøf.runtimeconfig.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\bin\Debug\net8.0\banke bøf.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\bin\Debug\net8.0\banke bøf.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.AssemblyInfoInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.AssemblyInfo.cs
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.csproj.CoreCompileInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.sourcelink.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\refint\banke bøf.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\banke bøf.genruntimeconfig.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\banke bøf\obj\Debug\net8.0\ref\banke bøf.dll

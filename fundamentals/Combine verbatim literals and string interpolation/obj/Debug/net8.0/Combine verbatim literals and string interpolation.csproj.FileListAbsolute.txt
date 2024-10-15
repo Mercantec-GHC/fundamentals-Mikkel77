@@ -1,0 +1,15 @@
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\bin\Debug\net8.0\Combine verbatim literals and string interpolation.exe
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\bin\Debug\net8.0\Combine verbatim literals and string interpolation.deps.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\bin\Debug\net8.0\Combine verbatim literals and string interpolation.runtimeconfig.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\bin\Debug\net8.0\Combine verbatim literals and string interpolation.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\bin\Debug\net8.0\Combine verbatim literals and string interpolation.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.AssemblyInfoInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.AssemblyInfo.cs
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.sourcelink.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\refint\Combine verbatim literals and string interpolation.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\Combine verbatim literals and string interpolation.genruntimeconfig.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Combine verbatim literals and string interpolation\obj\Debug\net8.0\ref\Combine verbatim literals and string interpolation.dll

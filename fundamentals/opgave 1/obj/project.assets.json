@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pizza\\source\\repos\\fundamentals\\opgave 1\\opgave 1.csproj",
+      "projectUniqueName": "C:\\Users\\Pizza\\source\\repos\\fundamentals-Mikkel77\\fundamentals\\opgave 1\\opgave 1.csproj",
       "projectName": "opgave 1",
-      "projectPath": "C:\\Users\\Pizza\\source\\repos\\fundamentals\\opgave 1\\opgave 1.csproj",
+      "projectPath": "C:\\Users\\Pizza\\source\\repos\\fundamentals-Mikkel77\\fundamentals\\opgave 1\\opgave 1.csproj",
       "packagesPath": "C:\\Users\\Pizza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pizza\\source\\repos\\fundamentals\\opgave 1\\obj\\",
+      "outputPath": "C:\\Users\\Pizza\\source\\repos\\fundamentals-Mikkel77\\fundamentals\\opgave 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pizza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\bin\Debug\net8.0\Challenge Format and display instructions.exe
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\bin\Debug\net8.0\Challenge Format and display instructions.deps.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\bin\Debug\net8.0\Challenge Format and display instructions.runtimeconfig.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\bin\Debug\net8.0\Challenge Format and display instructions.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\bin\Debug\net8.0\Challenge Format and display instructions.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.AssemblyInfoInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.AssemblyInfo.cs
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.csproj.CoreCompileInputs.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.sourcelink.json
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\refint\Challenge Format and display instructions.dll
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.pdb
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\Challenge Format and display instructions.genruntimeconfig.cache
+C:\Users\Pizza\source\repos\fundamentals-Mikkel77\fundamentals\Challenge Format and display instructions\obj\Debug\net8.0\ref\Challenge Format and display instructions.dll
